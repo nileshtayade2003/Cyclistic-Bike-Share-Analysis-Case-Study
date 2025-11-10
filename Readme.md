@@ -67,7 +67,7 @@ These steps prepared the dataset for fast DAX calculations and visualization.
 
 ---
 
-## 📈 5. Power BI Dashboard
+##  5. Power BI Dashboard
 
 The dashboard includes the following key analyses:
 
@@ -145,7 +145,7 @@ Appeal directly to casual riders who favor convenience.
 
 ---
 
-## 📄 8. Files Included in this Repository
+##  8. Files Included in this Repository
 Cyclistic-Bike-Share-Case-Study/
 - Cyclistic_Dashboard.pbix # Power BI dashboard
 - Cyclistic_Case_Study_Report.pdf # Full written report
@@ -155,7 +155,7 @@ Cyclistic-Bike-Share-Case-Study/
 
 ---
 
-## ⭐ 9. About This Project
+##  9. About This Project
 
 This project was completed as part of the **Google Data Analytics Professional Certificate**.  
 It demonstrates skills in:
@@ -170,7 +170,7 @@ It demonstrates skills in:
 
 ---
 
-## 🤝 10. Contact
+##  10. Contact
 
 **Nilesh Tayade**  
 Aspiring Data Analyst   

@@ -1,6 +1,8 @@
 # 🚴‍♂️ Cyclistic Rider Behavior Analysis Dashboard (Cyclistic Bike-Share Case Study)
 ### *A Google Data Analytics Capstone Project*
 
+**Note:** If you want to explore dashboard you can download from [here](https://drive.google.com/drive/folders/1kMBZjCJYeRhTdYzeNcqXBN1b6BKRliAg?usp=sharing).
+
 This repository contains the full analysis, Power BI dashboard, and final report for the Cyclistic Bike-Share Case Study.  
 The goal of this project is to understand how **casual riders** and **annual members** use Cyclistic differently and provide insights to help convert casual riders into paying members.
 
